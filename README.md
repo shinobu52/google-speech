@@ -1,4 +1,4 @@
-# google-speech
+# google-speechサンプル
 
 1. `make init`で`protobuf`をインストールする
 2. プロジェクト直下に`/tmp`を用意する
