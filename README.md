@@ -1,5 +1,9 @@
 # google-speechサンプル
 
+## ライブラリ
+- `google-cognitive-apis`
+
+## 手順
 1. `make init`で`protobuf`をインストールする
 2. プロジェクト直下に`/tmp`を用意する
 3. サービスアカウントに`Cloud Speech クライアント`権限を付与して、credentialファイルを生成する
