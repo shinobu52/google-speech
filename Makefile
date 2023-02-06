@@ -1,0 +1,2 @@
+init:
+	brew bundle
